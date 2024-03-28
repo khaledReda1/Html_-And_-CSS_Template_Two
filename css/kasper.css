@@ -1127,6 +1127,14 @@ margin-left: 50px;
     .footer .copyright {
     margin-top: 60px;
     }
+    .footer .container .link {
+        display: block;
+    /* font-size: 35px; */
+    font-weight: 800;
+    color: var(--main-color);
+    text-decoration: none;
+    margin: 10px;
+    }
 
     .footer .copyright span {
         font-weight: bold;
